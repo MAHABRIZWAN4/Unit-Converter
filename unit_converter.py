@@ -176,7 +176,7 @@ with st.container():
 # Add some decorative elements
 st.markdown("""
 <div style="text-align: center; margin-top: 2rem; color: #666;">
-    <p>Made with ❤️ by Unit Converter Pro</p>
+    <p>🔧 Precision Engineered by ❤️ Mahab Rizwan</p>
 </div>
 """, unsafe_allow_html=True)
 
